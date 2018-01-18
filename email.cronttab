@@ -1,0 +1,1 @@
+47 4 18 1 * echo 'Message body goes here' | mail -s 'subject line goes here' yunchili@usc.edu
